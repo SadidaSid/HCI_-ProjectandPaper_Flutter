@@ -1,4 +1,4 @@
-# HCI_-ProjectandPaper_Flutter
+# Index of Difficulty Measurement for Handedness in Human Computer Interaction
 
 Objective: The aim was to experiment by developing a cross- platform mobile App using Flutter to gather data points based on user response to screen objects, on an equal number of self-identified right and left-handed users. This data is studied and analyzed to enhance the designing of the apps to improve user experience irrespective of whether they are right handed or left handed. The data collected can also be used for keystroke biometrics authorization. 
 The methodology includes the following key components:
