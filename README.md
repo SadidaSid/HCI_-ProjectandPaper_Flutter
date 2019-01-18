@@ -10,3 +10,6 @@ The methodology includes the following key components:
         designing mirror image screens asking subject to click on the specified object from each image.
 
 All these experiments make use of fits and steering law to predict users response time based on the positioning of screen elements and their size and also the movement of the hand across the screen. 
+
+
+
